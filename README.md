@@ -81,13 +81,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syahrul611&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-#### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=syahrul611&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=syahrul611&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=syahrul611&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=syahrul611&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
@@ -103,6 +103,7 @@
 
 ###
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
