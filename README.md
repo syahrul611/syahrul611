@@ -1,9 +1,5 @@
 ![Header](img/github-header-1.png)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=syahrul611.syahrul611&"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
