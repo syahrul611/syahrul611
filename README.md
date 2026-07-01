@@ -12,7 +12,7 @@
 
 <p align="left">I am a fresh graduate in Information Systems with one year of experience as a Data Analyst and 2 year as a Junior Web Developer. I have strong expertise in data analysis and visualization, big data processing, and predictive modeling using various tools such as Python, SQL (BigQuery, MySQL), and Microsoft Power BI. Additionally, I have experience in data processing, building efficient data pipelines, and developing interactive dashboards to support business decision-making. With a background in web development using Laravel and CodeIgniter, I can integrate data solutions with web-based systems. I possess strong analytical skills, project management abilities, and solid teamwork capabilities.
 
-Contact: Syahrulromadhon611@gmail.com | Portfolio: https://syahrul611.github.io/Portofolio-HTML/
+Contact: Syahrulromadhon611@gmail.com | 
 
 </p>
 
